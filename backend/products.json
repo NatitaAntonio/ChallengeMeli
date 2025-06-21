@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Auriculares Inalámbricos Sony WH-1000XM4",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_799994-MLA44839553651_022021-F.webp",
+    "description": "Disfruta de la mejor cancelación de ruido del mercado.",
+    "price": 349.99,
+    "originalPrice": 399.99,
+    "discount": "13% OFF",
+    "rating": 5,
+    "reviews": 1283,
+    "seller": "Sony Official Store",
+    "stock": 5243,
+    "specifications": {
+      "Tipo": "Over-ear",
+      "Conectividad": "Bluetooth 5.0",
+      "Duración de batería": "30 horas"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Apple AirPods Pro con Cancelación Activa de Ruido",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_721235-MLA44839553651_022021-F.webp",
+    "description": "Sumérgete en un sonido de alta fidelidad con un ajuste perfecto.",
+    "price": 249.99,
+    "originalPrice": 279.99,
+    "discount": "11% OFF",
+    "rating": 5,
+    "reviews": 2456,
+    "seller": "Apple Premium Reseller",
+    "stock": 10243,
+    "specifications": {
+      "Tipo": "In-ear",
+      "Conectividad": "Bluetooth 5.0",
+      "Duración de batería": "24 horas (con estuche)"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Auriculares Bose 700 con Cancelación de Ruido",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_839669-MLA44839553651_022021-F.webp",
+    "description": "Llamadas nítidas y un sonido potente en un diseño elegante.",
+    "price": 379.99,
+    "originalPrice": 399.99,
+    "discount": "5% OFF",
+    "rating": 4.5,
+    "reviews": 987,
+    "seller": "Bose Argentina",
+    "stock": 3421,
+    "specifications": {
+      "Tipo": "Over-ear",
+      "Conectividad": "Bluetooth 5.0",
+      "Duración de batería": "20 horas"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Auriculares Inalámbricos Jabra Elite 75t",
+    "imageUrl": "https://http2.mlstatic.com/D_NQ_NP_2X_910601-MLA44839553651_022021-F.webp",
+    "description": "Ajuste seguro y compacto para un estilo de vida activo.",
+    "price": 149.99,
+    "originalPrice": 179.99,
+    "discount": "17% OFF",
+    "rating": 4.5,
+    "reviews": 1024,
+    "seller": "Tecno Shop",
+    "stock": 1876,
+    "specifications": {
+      "Tipo": "In-ear",
+      "Conectividad": "Bluetooth 5.0",
+      "Duración de batería": "28 horas (con estuche)"
+    }
+  }
+] 
